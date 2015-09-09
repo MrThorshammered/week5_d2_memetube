@@ -7,8 +7,6 @@ $(document).ready(function(){
   		createVideo();
   })
 
-//   $('#todo-list').on('change', '.toggle', changeTaskStatus);
-
 }) 
 
 function getVideos(){
